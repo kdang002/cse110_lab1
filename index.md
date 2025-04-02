@@ -1,9 +1,9 @@
 # Kiet's Home Page
 ## Junior Year UCSD Computer Science Major
-### Passionate in technology implementation and dreaming to become a software engineering in Automotive Field to develop and enchance a better application for simulated gears in EV (and maybe Quantum Computing with M.S.).
+### I am passionate in technology implementation and dreaming to become a software engineering in Automotive Field to develop and enchance a better application for simulated gears in EV (and maybe Quantum Computing with M.S.).
 
 
-**Will Lewis Hamilton Get His 8th Championship Title with Ferrari?**
+# **Will Lewis Hamilton Get His 8th Championship Title with Ferrari?**
 > *** "I use negativity as fuel." ***
 *His fan is eager to see him perform in this new team!*
 ![Lewis Hamilton Ferrari](https://cdn-8.motorsport.com/images/amp/68yGx840/s6/lewis-hamilton-ferrari-sf-25.jpg)
@@ -36,7 +36,7 @@ Testing out Relative link to [kiet.md](kiet.md)
 #### Task list for this SPR 2025 Week 1 :
 [ ] Finishes HW
 [x] Hit the gym at least 3 times.
-- [ ] Did you do legs?
+[ ] Did you do legs at least once?
 [x] Laundry
 [ ] Shower
 [x] Get helluva Liquor and ingredients for this weekend Japanese Grand Prix F1 @ Suzuka Circuit

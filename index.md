@@ -34,9 +34,9 @@ Testing out Relative link to [kiet.md](kiet.md)
 3. Lewis Hamilton
 
 #### Task list for this SPR 2025 Week 1 :
-[ ] Finishes HW
-[x] Hit the gym at least 3 times.
-[ ] Did you do legs at least once?
-[x] Laundry
-[ ] Shower
-[x] Get helluva Liquor and ingredients for this weekend Japanese Grand Prix F1 @ Suzuka Circuit
+- [ ] Finishes HW
+- [x] Hit the gym at least 3 times.
+- [ ] Did you do legs at least once?
+- [x] Laundry
+- [ ] Shower
+- [x] Get helluva Liquor and ingredients for this weekend Japanese Grand Prix F1 @ Suzuka Circuit

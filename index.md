@@ -4,7 +4,7 @@
 
 
 # **Will Lewis Hamilton Get His 8th Championship Title with Ferrari?**
-> *** "I use negativity as fuel." ***
+> "I use negativity as fuel."
 *His fan is eager to see him perform in this new team!*
 ![Lewis Hamilton Ferrari](https://cdn-8.motorsport.com/images/amp/68yGx840/s6/lewis-hamilton-ferrari-sf-25.jpg)
 
